@@ -27,6 +27,7 @@
       <ComboBox ItemsSource="{Binding AvailablePorts}" SelectedItem="{Binding SelectedPort}" Width="200" Margin="10,40,0,20"/>
       <Button Content="连接串口" Command="{Binding ConnectToPortCommand}" Width="150" Margin="10 80 0 0" VerticalAlignment="Top"/>
       <Button Content="随机数"   Command="{Binding StartUpdatingCommand}"  Width="150" Margin="210 80 0 0" VerticalAlignment="Top"/>
+      <Button Content="随机数2"   Command="{Binding StartUpdatingCommand}"  Width="150" Margin="410 80 0 0" VerticalAlignment="Top"/>
     </Grid>
      
     <lvc:CartesianChart Grid.Row="1"
