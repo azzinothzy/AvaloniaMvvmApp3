@@ -85,7 +85,7 @@ namespace AvaloniaMvvmApp2.ViewModels
                      GeometrySize = 0,      // 设置点的大小为 0，隐藏点
         GeometryFill = null,   // 不填充点的内部
         GeometryStroke = null, // 不描边点
-        Fill = null            // 不填充线条下方区域
+        Fill = null           
             }
         };
 
