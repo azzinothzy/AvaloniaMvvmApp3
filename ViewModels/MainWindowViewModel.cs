@@ -33,7 +33,7 @@ namespace AvaloniaMvvmApp2.ViewModels
         private string selectedPort;
         [ObservableProperty]
         private ObservableCollection<DataPoint> chartSeries1 = new ObservableCollection<DataPoint>();
-
+        //123
         [ObservableProperty]
         private ObservableCollection<DataPoint> chartSeries2 = new ObservableCollection<DataPoint>();
 
