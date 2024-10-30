@@ -343,4 +343,5 @@ namespace AvaloniaMvvmApp2.ViewModels
             Value = value;
         }
     }
+    //你好
 }
